@@ -1,1 +1,1 @@
-# telegram-de
+# telegram-deals-bot
